@@ -6,18 +6,17 @@
 
 <div align="center">
     <img src="https://badges.aleen42.com/src/python.svg">
-    <img src="https://img.shields.io/github/v/release/Calculator-Application?label=Version">
+    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Calculator-Application?label=Version">
     <div>
-        <img src="https://img.shields.io/github/license/Calculator-Application?label=License">
-        <img src="https://img.shields.io/github/last-commit/Calculator-Application?label=Last Commit">
-        <img src="https://img.shields.io/github/release-date/Calculator-Application?label=Last Release">
-        <img src="https://img.shields.io/github/downloads/Calculator-Application/total?label=Downloads">
+        <img src="https://img.shields.io/github/license/Sobhan-SRZA/Calculator-Application?label=License">
+        <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Calculator-Application?label=Last Commit">
+        <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Calculator-Application?label=Last Release">
+        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Calculator-Application/total?label=Downloads">
     </div>
-    <img src="https://img.shields.io/github/forks/Calculator-Application?label=Forks">
-    <img src="https://img.shields.io/github/stars/Calculator-Application?label=Stars">
-    <img src="https://img.shields.io/github/watchers/Calculator-Application?label=Watchers">
-    <img src="https://img.shields.io/github/languages/code-size/Calculator-Application?label=Code Size">
-    <img src="https://img.shields.io/github/directory-file-count/Calculator-Application?label=Files">
+    <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Calculator-Application?label=Forks">
+    <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Calculator-Application?label=Watchers">
+    <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Calculator-Application?label=Code Size">
+    <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Calculator-Application?label=Files">
     <div>
         <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Calculator-Application&theme=react">
     </div>
