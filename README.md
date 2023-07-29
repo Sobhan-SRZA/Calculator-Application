@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/languages/code-size/Calculator-Application?label=Code Size">
     <img src="https://img.shields.io/github/directory-file-count/Calculator-Application?label=Files">
     <div>
-        <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=All-For-One-Bot&theme=react">
+        <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Calculator-Application&theme=react">
     </div>
 </div>
 
