@@ -11,7 +11,6 @@
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Calculator-Application?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Calculator-Application?label=Last Commit">
         <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Calculator-Application?label=Last Release">
-        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Calculator-Application/total?label=Downloads">
     </div>
     <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Calculator-Application?label=Forks">
     <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Calculator-Application?label=Watchers">
